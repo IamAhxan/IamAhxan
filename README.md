@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Ahsan! 👋<br>I'm a Software Engineer passionate about building Full Stack Web Applications, e.g., scalable web apps/embedded systems]. Currently, I'm focusing on sharpening my skills in [Language/Framework.<br><br>🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning MERN<br><br>👯 I’m looking to collaborate on MERN projects<br><br>💬 Ask me about Javascript, TypeScript, Reactjs<br>
+Hi there, I'm Ahsan! 👋<br>I'm a Software Engineer passionate about building Full Stack Web Applications, e.g., scalable web apps/embedded systems. Currently, I'm focusing on sharpening my skills in NextJS.<br><br>🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning MERN<br><br>👯 I’m looking to collaborate on MERN projects<br><br>💬 Ask me about Javascript, TypeScript, Reactjs<br>
 
 
 ## 🌐 Socials:
